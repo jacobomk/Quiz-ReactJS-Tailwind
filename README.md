@@ -41,7 +41,6 @@ npm run dev
 
 The application will open automatically in your browser at http://localhost:5173.
 
-
-![app1](https://github.com/jacobomk/Quiz-ReactJS-Tailwind/assets/118301551/63bffbb8-6405-47bc-b6c8-8638e9398967)
+![app1](https://github.com/jacobomk/Quiz-ReactJS-Tailwind/assets/118301551/3a8965ea-2818-44a6-bd6e-0c744b494815)
 <br><br><br><br><br>
-![app2](https://github.com/jacobomk/Quiz-ReactJS-Tailwind/assets/118301551/7c98056d-35ca-4659-9205-da6c49fa7f6f)
+![app2](https://github.com/jacobomk/Quiz-ReactJS-Tailwind/assets/118301551/40b995e2-8f4e-4ff9-b5f9-5fa8c747523a)
